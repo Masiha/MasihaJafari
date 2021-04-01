@@ -24,7 +24,7 @@ body {
     background-color: #ccc;
     display: grid;
     height: 96vh;
-    grid-template-rows: 1.5fr 1fr auto;
+    grid-template-rows: 1fr 1fr auto;
 }
 
 .left-header {
@@ -62,7 +62,7 @@ hr {
 }
 
 footer {
-    padding: 0.5rem;
+    padding: 1rem;
     text-align: center;
     grid-template-rows: minmax(150px, 10%);
     grid-column: 1 / 8;
