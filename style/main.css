@@ -23,7 +23,7 @@ body {
     color: #24292e;
     background-color: #ccc;
     display: grid;
-    height: 90vh;
+    height: 95vh;
     grid-template-rows: 1.5fr 1fr auto;
 }
 
